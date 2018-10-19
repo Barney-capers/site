@@ -3,12 +3,17 @@ img {
 	height: 100px;
 }
 
+.navbar {
+	text-align: center;
+	background-color: #333333;
+}
+
 ul{
     list-style-type: none;
+	display: inline-flex;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 li {
