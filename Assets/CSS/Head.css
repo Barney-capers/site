@@ -8,19 +8,19 @@ img {
 	background-color: #333333;
 }
 
-ul{
+.navbar ul{
     list-style-type: none;
-	display: inline-flex;
+	display: inline-block;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-li {
+.navbar li {
     float: left;
 }
 
-li a {
+.navbar li a {
     display: block;
     color: white;
     text-align: center;
@@ -30,5 +30,21 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: rebeccapurple;
+    background-color: #8442C4;
+}
+
+.cont-1, .cont-1 div {
+	display: inline-table;
+	width: 1024px;
+	
+}
+
+.cont-1 img {
+	width: 100px;
+	height: 100px;
+}
+
+
+h3 {
+	font-size: 40px;
 }
