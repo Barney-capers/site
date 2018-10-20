@@ -11,6 +11,7 @@ img {
 .navbar ul{
     list-style-type: none;
 	display: inline-block;
+	float: inherit;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -47,4 +48,15 @@ li a:hover {
 
 h3 {
 	font-size: 40px;
+}
+
+h4 {
+	font-size: 20px;
+}
+h5 {
+	font-size: 15px;
+}
+
+span {
+	color: #D81F22;
 }

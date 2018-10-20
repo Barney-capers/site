@@ -1,0 +1,11 @@
+.ima {
+	float: inherit;
+	width: 650px;
+	height:auto;
+	padding-right: 3px;
+	padding-bottom: 5px;
+}
+
+p {
+	text-align: center;
+}
