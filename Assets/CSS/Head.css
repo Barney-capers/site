@@ -1,6 +1,7 @@
 img {
 	float: left;
 	height: 100px;
+	padding-top: 15px;
 }
 
 .navbar {
@@ -59,4 +60,15 @@ h5 {
 
 span {
 	color: #D81F22;
+}
+
+.main_header {
+	display: flex;
+	background-image: url(/Assets/Images/Header-bg-img.png);
+}
+
+#Head {
+	color: #49389E;
+	text-shadow: 1px 1px #84189c;
+	padding-left: 15px;
 }

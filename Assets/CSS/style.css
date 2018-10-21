@@ -1,0 +1,25 @@
+Html {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: row no-wrap;
+  background-color: yellow;
+  width: 1024px;
+	justify-content: center;
+}
+
+.item {
+  list-style: none;
+  background-color:rebeccapurple;
+  margin-right: 30px;
+  width:200px;
+  text-align: center;
+}
