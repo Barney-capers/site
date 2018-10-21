@@ -35,17 +35,6 @@ li a:hover {
     background-color: #8442C4;
 }
 
-.cont-1, .cont-1 div {
-	display: inline-table;
-	width: 1024px;
-	
-}
-
-.cont-1 img {
-	width: 100px;
-	height: 100px;
-}
-
 
 h3 {
 	font-size: 40px;
@@ -56,10 +45,6 @@ h4 {
 }
 h5 {
 	font-size: 15px;
-}
-
-span {
-	color: #D81F22;
 }
 
 .main_header {
